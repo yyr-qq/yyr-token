@@ -1,7 +1,7 @@
 package gftoken
 
 import (
-	"github.com/yyryydyyx/rs-token/adapter"
+	"github.com/yyr-qq/yyr-token/adapter"
 
 	_ "github.com/gogf/gf/contrib/nosql/redis/v2"
 	"github.com/gogf/gf/v2/database/gredis"

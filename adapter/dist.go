@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yyryydyyx/rs-token/instance"
+	"github.com/yyr-qq/yyr-token/instance"
 
 	badger "github.com/dgraph-io/badger/v4"
 	"github.com/gogf/gf/v2/container/gmap"
